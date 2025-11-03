@@ -10,3 +10,7 @@ print(info)
 print(type(info))
 # if we find the value through key 
 print(info["name"])
+
+null_dict = {}
+null_dict["name"] = "subhajit"
+print(null_dict)
