@@ -1,5 +1,5 @@
 #while loop
-"""i=1
+i=1
 while i<=5:
     print("subhajit",i)
     i+=1
@@ -77,7 +77,7 @@ for i in range(2,20,2):
 
 n= int(input("enter thr number:"))
 for i in range(1,11):
-    print(n*i)"""
+    print(n*i)
 
 # wap to find the sum of first n numbers
 n=5
