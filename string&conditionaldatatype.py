@@ -1,6 +1,6 @@
 
 #string and conditional datatype
-"""str1= "my name is subhajit \n i am an enginner"
+str1= "my name is subhajit \n i am an enginner"
 print(str1)
 #concatenation
 str2= "subhajit"
@@ -92,7 +92,7 @@ if a > b and a > c:
 elif b > a and b > c:
     print("b is greater")
 else:
-    print("c is greater")"""
+    print("c is greater")
 
 
 number=int(input("enter your number:"))

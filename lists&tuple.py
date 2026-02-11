@@ -1,5 +1,5 @@
 #List and tuple
-"""marks = [62.2,78.5,96.1,41.2,85.8,45.6]
+marks = [62.2,78.5,96.1,41.2,85.8,45.6]
 print(marks)
 print(type(marks))
 print(len(marks))
@@ -73,4 +73,4 @@ print(tup.count("A"))
 #sort the abovevalues in a list& sort them from A to D.
 tup = ["C","D","A","A","B","B","A"]
 tup.sort(reverse=True)
-print(tup)"""
+print(tup)

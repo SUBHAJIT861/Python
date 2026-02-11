@@ -1,5 +1,5 @@
 #variable and datatype
-"""name = "subhajit"
+name = "subhajit"
 age = 21
 price = 52.2
 old = False
@@ -70,7 +70,7 @@ print(sum)
 #wap to input side of a square & print its area
 side=float(input("enter side of a squre:"))
 area = side *side
-print(area)"""
+print(area)
 #WAP to input 2 floating point number & print their average
 num1 = float(input("enter first num"))
 num2 = float(input("enyer second num"))
